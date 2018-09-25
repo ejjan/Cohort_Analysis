@@ -17,4 +17,4 @@ Customer behavioral Analysis- Cohort Analysis
 
 ## Result:
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/ejjan/Cohort_Analysis_Python/blob/master/cohort_%25.png)
