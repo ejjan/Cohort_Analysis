@@ -14,3 +14,7 @@ Customer behavioral Analysis- Cohort Analysis
 > (# of customers: 4373)
 
 2. Transaction: between 12/01/2010 to 12/09/2011
+
+## Result:
+
+![alt text](http://url/to/img.png)
