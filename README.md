@@ -23,4 +23,5 @@ Customer behavioral Analysis- Cohort Analysis
 
 * From the heatmap below, 2010-12 cohort group aquired most customers among all groups 
 * From this plot, we get better understanding that how many new customers are aquired from different campaign in each period
+
 ![alt text](https://github.com/ejjan/Cohort_Analysis_Python/blob/master/cohort_abs.png)
