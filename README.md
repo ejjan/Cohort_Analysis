@@ -19,6 +19,7 @@ Customer behavioral Analysis- Cohort Analysis
 
 * From the heatmap below, 2010-12 cohort group has largest average customer retention among all groups
 * We can compare the marketing campaign in 2010-12 with other campaigns held in different periods and then validate the effectiveness of each campaign
+
 ![alt text](https://github.com/ejjan/Cohort_Analysis_Python/blob/master/cohort_%25.png)
 
 * From the heatmap below, 2010-12 cohort group aquired most customers among all groups 
